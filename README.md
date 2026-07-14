@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Ansar Awan Banner" width="100%">
 </p>
 <h3 align="center">
-  <font color="#00F2C4">Learning Every Single Day 🚀</font>
+  <font color="#00F2C4">Turning Complex Logic into Intelligent Systems 🤖</font>
 </h3>
 Markdown
 ## 👨‍💻 About Me
