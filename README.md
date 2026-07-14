@@ -4,7 +4,7 @@
 <h3 align="center">
   <font color="#00F2C4">Turning Complex Logic into Intelligent Systems 🤖</font>
 </h3>
-Markdown
+
 ## 👨‍💻 About Me
 
 * 🎓 AI-focused student interested in **Backend Development**
