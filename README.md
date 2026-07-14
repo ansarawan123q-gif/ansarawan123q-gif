@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="path-to-your-uploaded-image.png" alt="Your Name Banner" width="100%">
+  <img src="banner.png" alt="Ansar Awan Banner" width="100%">
 </p>
 <h3 align="center">
   <font color="#00F2C4">Learning Every Single Day 🚀</font>
